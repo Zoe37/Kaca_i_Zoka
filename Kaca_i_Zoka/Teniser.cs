@@ -167,7 +167,7 @@ namespace Kaca_i_Zoka
             return izlaz;
         }
 
-        public string osmaMetodateniser()
+        public string osmaMetodateniser() //opet si preskocio uslov za znacajne turnire :) 
         {
             int brojZnacajnih = 0;
 
